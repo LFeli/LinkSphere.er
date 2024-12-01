@@ -1,11 +1,12 @@
-import { colors } from "@/src/styles/colors";
-import { StyleSheet } from "react-native";
+import { StyleSheet } from 'react-native'
+
+import { colors } from '@/styles/colors'
 
 export const styles = StyleSheet.create({
   container: {
     flex: 1,
-    justifyContent: "center",
-    alignItems: "center",
+    justifyContent: 'center',
+    alignItems: 'center',
   },
   title: {
     color: colors.green[900],
