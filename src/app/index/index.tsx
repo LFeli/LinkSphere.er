@@ -1,5 +1,6 @@
-import { Text, View } from "react-native";
-import { styles } from "./style";
+import { Text, View } from 'react-native'
+
+import { styles } from './style'
 
 export default function Index() {
   return (
